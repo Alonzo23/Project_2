@@ -5,8 +5,6 @@ Background: The recent election cycle and resulting political turmoil has brough
 
 Graph 1 - May need to break it down into year, region, crime type. This could be a simple plotly line graph with 6 or 7 lines, click-able of course.
 
-2nd Question: Is income a factor? Using US census bureau data on per capita income, we will show how this impacts the per capita hate crime through several graphics.
-
 Graph 2 - interactive geojson with per capita victim counts, candlestick to move from 1991 to 2017, mouseover map to
 indicate crime rate at that given year. Start at state level, with option to zoom in to see city level data.
 
