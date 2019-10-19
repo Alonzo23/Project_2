@@ -5,8 +5,7 @@ Background: The recent election cycle and resulting political turmoil has brough
 
 Graph 1 - Graph one was Hate Crime Numbers per year. We used Plotly to show the change YOY from 2010 to 2017 in total hate crimes committed in the US. This graph shows that hate crime had a sharp increase in 2016 and 2017, which could be due to the political changes that occurred during that period.
 
-Graph 2 - interactive geojson with per capita victim counts, candlestick to move from 2010 to 2017, mouseover map to
-indicate crime rate at that given year. Start at state level, with option to zoom in to see city level data.
+Graph 2 - Graph two was a pie chart showing the percentage splits of hate crimes committed by different races in the US from 2010-2017. This graph showed that white-on-black crime was the most reported during this period. 
 
 Graph 3 (required) - d3 interactive based (https://bost.ocks.org/mike/nations/). Graph would timelapse through 2010-2017 (each state would be a bubble), with X axis would being each states per capita hate crime rate, Y axis would be the individual states per capita income, size of bubble could be the states total population.
 
