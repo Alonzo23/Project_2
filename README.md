@@ -7,6 +7,6 @@ Graph 1 - Graph one was Hate Crime Numbers per year. We used Plotly to show the 
 
 Graph 2 - Graph two was a pie chart showing the percentage splits of hate crimes committed by different races in the US from 2010-2017. This graph showed that white-on-black crime was the most reported during this period. 
 
-Graph 3 (required) - d3 interactive based (https://bost.ocks.org/mike/nations/). Graph would timelapse through 2010-2017 (each state would be a bubble), with X axis would being each states per capita hate crime rate, Y axis would be the individual states per capita income, size of bubble could be the states total population.
+Graph 3 - Bubble graph showing per capita income vs. per capita hate crime (per 10,000 people).   Radius is population of each state.   Graph is visualizaed by running python -m http.server on index2.html file.
 
 Resources: crime data = hatecrime.csv population data = https://www.census.gov income data = https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=CF
