@@ -5,9 +5,9 @@ Background: The recent election cycle and resulting political turmoil has brough
 
 Graph 1 - May need to break it down into year, region, crime type. This could be a simple plotly line graph with 6 or 7 lines, click-able of course.
 
-Graph 2 - interactive geojson with per capita victim counts, candlestick to move from 1991 to 2017, mouseover map to
+Graph 2 - interactive geojson with per capita victim counts, candlestick to move from 2010 to 2017, mouseover map to
 indicate crime rate at that given year. Start at state level, with option to zoom in to see city level data.
 
-Graph 3 (required) - d3 interactive based (https://bost.ocks.org/mike/nations/). Graph would timelapse through 1991-2017 (each state would be a bubble), with X axis would being each states per capita hate crime rate, Y axis would be the individual states per capita income, size of bubble could be the states total population.
+Graph 3 (required) - d3 interactive based (https://bost.ocks.org/mike/nations/). Graph would timelapse through 2010-2017 (each state would be a bubble), with X axis would being each states per capita hate crime rate, Y axis would be the individual states per capita income, size of bubble could be the states total population.
 
 Resources: crime data = hatecrime.csv population data = https://www.census.gov income data = https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=CF
