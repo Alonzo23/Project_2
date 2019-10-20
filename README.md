@@ -16,3 +16,7 @@ The graphs can also be seen on their separate webpages
 Resources: crime data = hatecrime.csv population data = https://www.census.gov income data = https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=CF
 
 ![graph1](/Images/crime_per_year.PNG)
+
+![graph2](/Images/pie_chart.PNG)
+
+![graph](/Images/crime_per_capita.PNG)
